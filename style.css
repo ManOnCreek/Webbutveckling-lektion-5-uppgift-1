@@ -1,0 +1,74 @@
+#top{
+    height: 80px;
+    border: 2px solid red;
+    border-radius: 8px;
+}
+.container{
+    display: flex;
+    align-items: center;
+justify-content: space-around;
+    /* background-color:aqua; */
+}
+.container div{
+    /* background-color: blueviolet; */
+    font-family: monospace;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+#hawk{
+    height: 185px;
+    border: 2px solid orange;
+    border-radius: 8px;
+}
+.containerBody {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.containerBody div{
+margin: 10px;
+padding: 20px;
+
+}
+
+#tuah{
+    height: 360px;
+    border: 2px solid yellow;
+    border-radius: 8px;
+}
+
+h1#rubrik{
+    text-align: right;
+    text-align: top;
+    background-color: aqua;
+    border: 2px solid black;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+h1#rubrik2{
+text-align: center;
+background-color: red;
+border: 2px solid black;
+padding-right: 260px;
+padding-left: 260px;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+h1#rubrik3{
+text-align: center;
+background-color: blue;
+    border: 2px solid black;
+padding-right: 260px;
+padding-left: 260px;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+h1#lorem{
+    text-align:center;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif
+}
